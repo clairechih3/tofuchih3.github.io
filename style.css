@@ -1,6 +1,7 @@
 ul{
     background-color:lightblue;
     list-style-type: none;
+    overflow: hidden;
 }
 
 body{
@@ -16,7 +17,4 @@ li{
 }
 a{
     color:lightblue
-}
-b{
-    color:lightcoral
 }
