@@ -1,23 +1,16 @@
 ul{
     background-color:rgb(186, 217, 228);
-}
-selector{
-    property:value;
-    property:value;
+    list-style-type:none;
 }
 
 body{
     background-color: linen;
 }
+
 h1{
     color:darkred
 }
-.titles{
-    text-align:center;
-}
-ul{
-    list-style-type:none;
-}
+
 li{
     float:left;
 }
