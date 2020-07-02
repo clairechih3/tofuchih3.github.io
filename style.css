@@ -12,9 +12,11 @@ h1{
     color:darkred
 }
 
+
 li{
     float:left;
+    padding:10px;
 }
 a{
-     background-color:black;
+     color:black;
 }
