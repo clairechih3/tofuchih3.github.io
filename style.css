@@ -1,6 +1,5 @@
-{
-    margin=18px
-    padding=18px
+ul{
+    background-color:lightblue;
 }
 selector{
     property:value;
@@ -15,5 +14,8 @@ h1{
 }
 .titles{
     text-align:center;
+}
+ul{
+    list-style-type:none;
 }
 
