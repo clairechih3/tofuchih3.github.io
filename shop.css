@@ -45,3 +45,25 @@
     list-style-type: none;
     overflow: hidden;
 }
+
+{
+    margin:0;
+    padding:0;
+}
+.container{
+    width:400px;
+    background:lightgoldenrodyellow
+}
+.transition{
+    width:200px;
+    margin-top:4px; 
+    margin-bottom:4px;
+    text-align:center;
+    background:white;
+    height:100px;
+    transition: 1s ease-in;
+}
+.transition:hover{
+    width:400px;
+    background:pink
+}
